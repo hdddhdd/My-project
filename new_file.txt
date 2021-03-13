@@ -1,1 +1,10 @@
 git text
+
+A
+A
+B
+B
+test test testg
+
+
+it text
