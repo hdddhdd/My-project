@@ -1,13 +1,7 @@
 This is my new file
 Hello
 
-This is revision version.
-
-I like computer.
-
-Hello
 I like pizza.
-
 
 
 
